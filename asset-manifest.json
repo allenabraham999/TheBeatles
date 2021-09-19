@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/TheBeatles/static/css/main.842a07bf.chunk.css",
-    "main.js": "/TheBeatles/static/js/main.91a9a9e4.chunk.js",
-    "main.js.map": "/TheBeatles/static/js/main.91a9a9e4.chunk.js.map",
+    "main.css": "/TheBeatles/static/css/main.94ad45dd.chunk.css",
+    "main.js": "/TheBeatles/static/js/main.ab03d63d.chunk.js",
+    "main.js.map": "/TheBeatles/static/js/main.ab03d63d.chunk.js.map",
     "runtime-main.js": "/TheBeatles/static/js/runtime-main.126ba4d2.js",
     "runtime-main.js.map": "/TheBeatles/static/js/runtime-main.126ba4d2.js.map",
     "static/js/2.397b6bf5.chunk.js": "/TheBeatles/static/js/2.397b6bf5.chunk.js",
     "static/js/2.397b6bf5.chunk.js.map": "/TheBeatles/static/js/2.397b6bf5.chunk.js.map",
     "index.html": "/TheBeatles/index.html",
-    "static/css/main.842a07bf.chunk.css.map": "/TheBeatles/static/css/main.842a07bf.chunk.css.map",
+    "static/css/main.94ad45dd.chunk.css.map": "/TheBeatles/static/css/main.94ad45dd.chunk.css.map",
     "static/js/2.397b6bf5.chunk.js.LICENSE.txt": "/TheBeatles/static/js/2.397b6bf5.chunk.js.LICENSE.txt",
     "static/media/AR.5f9b4116.jpg": "/TheBeatles/static/media/AR.5f9b4116.jpg",
     "static/media/Landing.css": "/TheBeatles/static/media/AbbeyRoad01.161b6546.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.126ba4d2.js",
     "static/js/2.397b6bf5.chunk.js",
-    "static/css/main.842a07bf.chunk.css",
-    "static/js/main.91a9a9e4.chunk.js"
+    "static/css/main.94ad45dd.chunk.css",
+    "static/js/main.ab03d63d.chunk.js"
   ]
 }
